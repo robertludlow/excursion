@@ -1,0 +1,33 @@
+* {
+  font-family= Verdana;
+  background-color: black;
+  align-items: center;
+  text-align: center;
+}
+
+head {
+  font-weight= normal;
+  font-size= 50px;
+  color= white;
+
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p #flavor-text {
+  font-size: 21px;
+  color: Gray;
+}
+
+footer {
+  color: Gray;
+  text-align: right;
+}
