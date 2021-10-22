@@ -1,5 +1,6 @@
 * {
   font-family= Verdana;
+  color: white;
   background-color: black;
   align-items: center;
   text-align: center;
@@ -8,8 +9,6 @@
 head {
   font-weight= normal;
   font-size= 50px;
-  color= white;
-
 }
 
 a {
